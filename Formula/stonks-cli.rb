@@ -4,8 +4,8 @@
 class StonksCli < Formula
   desc "stonks-cli"
   homepage "https://github.com/primenumsdev/stonks-cli"
-  url "https://github.com/primenumsdev/stonks-cli/releases/download/v0.0.2/stonks-cli"
-  sha256 "dd25e75408224e7ab5fe0099c3d1d76f249a5754331e274899a1faff73465ada"
+  url "https://github.com/primenumsdev/stonks-cli/releases/download/v0.0.1/stonks-cli.tar.gz"
+  sha256 "ff611a6c0ecc1aa8f00ad318df3b9410b73671cae0e8305bed51e654182008a9"
   license ""
 
   # depends_on "cmake" => :build
