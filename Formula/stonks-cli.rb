@@ -4,7 +4,7 @@
 class StonksCli < Formula
   desc "stonks-cli"
   homepage "https://github.com/primenumsdev/stonks-cli"
-  url "https://github.com/primenumsdev/stonks-cli/releases/download/v0.0.1/stonks-cli"
+  url "https://github.com/primenumsdev/stonks-cli/releases/download/v0.0.2/stonks-cli"
   sha256 "dd25e75408224e7ab5fe0099c3d1d76f249a5754331e274899a1faff73465ada"
   license ""
 
