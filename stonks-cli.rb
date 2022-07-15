@@ -2,7 +2,7 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class StonksCli < Formula
-  desc "stonks-cli
+  desc "stonks-cli"
   homepage "https://github.com/primenumsdev/stonks-cli"
   url "https://github.com/primenumsdev/stonks-cli/releases/download/v0.0.1/stonks-cli"
   sha256 "dd25e75408224e7ab5fe0099c3d1d76f249a5754331e274899a1faff73465ada"
